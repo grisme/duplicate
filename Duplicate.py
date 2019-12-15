@@ -81,7 +81,7 @@ def process_image_duplicates():
 
 
 def print_usage():
-    print("Usage: python Dublicate.py /path/to/check")
+    print("Usage: python Duplicate.py /path/to/check")
     exit(0)
 
 
